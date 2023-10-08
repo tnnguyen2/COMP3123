@@ -1,0 +1,20 @@
+{
+  "name": "week05_lab_exercise05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "npm index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Tony Nguyen - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
