@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729c1e8a-82b2-464d-a94b-8fce2d3f1ba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week05_Fri_Js/100907949_COMP3123-exec05.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/models/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/routes/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_express_mongoose-master/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WjCfm4wegoi5i17xhiOcL5YilK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tony_/Downloads/F2023_FS/Week06_Fri_Js",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729c1e8a-82b2-464d-a94b-8fce2d3f1ba1" name="Changes" comment="" />
+      <created>1697236707529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697236707529</updated>
+      <workItem from="1697236708801" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
