@@ -16,7 +16,7 @@ let server = http.createServer((req,res) => {
     }
     if(req.url==='/student') {
         if (req.method === "POST") {
-            res.write("<h1>Student Page</h1>")
+            res.write("<h1>StudentList Page</h1>")
             const stud = {
                 sid: 1,
                 snm: "Tony Nguyen"

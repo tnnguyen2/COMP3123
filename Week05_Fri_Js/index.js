@@ -16,7 +16,7 @@ app.use((req,res,next)=>{
 
 //Route level middleware
 app.use("/api/v1/student",(req,res,next)=>{
-    console.log("/Student/ Middleware")
+    console.log("/StudentList/ Middleware")
     next()
 })
 

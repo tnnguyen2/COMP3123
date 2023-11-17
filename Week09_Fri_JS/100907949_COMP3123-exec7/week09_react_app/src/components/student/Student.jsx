@@ -16,5 +16,5 @@ export default function Student(props) {
 
 Student.defaultProps = {
     fullName: 'Default Full Name',
-    sid: 'Default Student ID'
+    sid: 'Default StudentList ID'
 }
