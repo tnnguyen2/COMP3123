@@ -1,6 +1,6 @@
 //Exercise 1
 let greeter = (myArray) =>{
-    const greetText = 'Hello ';
+    const greetText = 'Home ';
     myArray.forEach(name => console.log(`${greetText}${name}`));
 }
 console.log('Exercise 1\n----------')

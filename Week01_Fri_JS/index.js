@@ -1,5 +1,5 @@
 //use strict
-console.log("Hello World")
+console.log("Home World")
 
 var a = 100
 let b = 200

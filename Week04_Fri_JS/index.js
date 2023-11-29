@@ -39,7 +39,7 @@ app.post("/student",(req,res)=>{
 
 //http://localhost:8089/faculty
 app.get("/faculty",(req,res)=>{
-    res.send("Hello Faculty")
+    res.send("Home Faculty")
 })
 
 //PATH Parameter

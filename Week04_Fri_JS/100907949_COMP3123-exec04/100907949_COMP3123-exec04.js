@@ -6,7 +6,7 @@ app.use(express.json())
 
 //http://localhost:8089/hello
 app.get("/hello",(req,res)=>{
-    res.send("Hello Express JS")
+    res.send("Home Express JS")
 })
 
 //QUERY Parameter
